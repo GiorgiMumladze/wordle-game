@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="20" viewBox="0 0 60 30">
+  <!-- Backspace key outline with halved rectangle width -->
+  <polygon points="0,15 10,0 35,0 35,30 10,30" fill="none" stroke="white" stroke-width="2"/>
+  <!-- X inside the smaller rectangle -->
+  <line x1="15" y1="8" x2="30" y2="22" stroke="white" stroke-width="2"/>
+  <line x1="30" y1="8" x2="15" y2="22" stroke="white" stroke-width="2"/>
+</svg>

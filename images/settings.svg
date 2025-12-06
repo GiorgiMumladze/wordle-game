@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Settings">
+  <circle cx="12" cy="12" r="9" fill="none" stroke="white" stroke-width="1.6"/>
+  <g transform="translate(12 12)" fill="none" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <g>
+      <rect x="-0.9" y="-11.2" width="1.8" height="3" rx="0.35" fill="white"/>
+    </g>
+    <g transform="rotate(45)"><rect x="-0.9" y="-11.2" width="1.8" height="3" rx="0.35" fill="white"/></g>
+    <g transform="rotate(90)"><rect x="-0.9" y="-11.2" width="1.8" height="3" rx="0.35" fill="white"/></g>
+    <g transform="rotate(135)"><rect x="-0.9" y="-11.2" width="1.8" height="3" rx="0.35" fill="white"/></g>
+    <g transform="rotate(180)"><rect x="-0.9" y="-11.2" width="1.8" height="3" rx="0.35" fill="white"/></g>
+    <g transform="rotate(225)"><rect x="-0.9" y="-11.2" width="1.8" height="3" rx="0.35" fill="white"/></g>
+    <g transform="rotate(270)"><rect x="-0.9" y="-11.2" width="1.8" height="3" rx="0.35" fill="white"/></g>
+    <g transform="rotate(315)"><rect x="-0.9" y="-11.2" width="1.8" height="3" rx="0.35" fill="white"/></g>
+  </g>
+  <circle cx="12" cy="12" r="3.2" fill="none" stroke="white" stroke-width="1.6"/>
+</svg>
